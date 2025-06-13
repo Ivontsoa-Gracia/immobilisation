@@ -2,7 +2,7 @@
 
 L’application **Gestion des Matériels** est une solution web conçue pour centraliser et optimiser le suivi des immobilisations au sein d’une entreprise. Elle permet :
 
-- L’enregistrement détaillé de chaque matériel (désignation, code, état, etc.)
+- L’enregistrement détaillé de chaque matériel
 - La classification par catégorie
 - La localisation précise sur site
 - Le suivi avancé des maintenances
